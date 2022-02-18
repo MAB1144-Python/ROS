@@ -8,7 +8,10 @@
 #### Here you will find videos, Dataset and codes that will be open.
 
 
+### 2022
+##### The detection of dynamic objects online is a factor of great complexity, and even more so when it is done with humans given the body presents irregularities, below we present the results of the application of the method in the detection of a human, at walking speed, in an interior space and with an irregular path.
 
+[![Alt text](https://img.youtube.com/vi/sWC_hTZ4Iog/0.jpg)](https://youtu.be/sWC_hTZ4Iog)
 
 ### 2021
 ###
