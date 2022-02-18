@@ -16,4 +16,4 @@
 ##### Detection of dynamic objects with 2D lidar, in indoor environments
 ##### https://youtu.be/nquiN8ILuVA
 ##### https://youtu.be/1Ooc0ynJ7xU
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/1Ooc0ynJ7xU)
+[![Alt text](https://img.youtube.com/vi/c1Ooc0ynJ7xU/0.jpg)](https://youtu.be/1Ooc0ynJ7xU)
