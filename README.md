@@ -11,7 +11,8 @@
 
 
 ### 2022
-#### Traslate and rotation of point cloud with ORB-SLAM. https://github.com/MAB1144-Python/rotation-and-traslate-Point-Cloud-3D/blob/main/README.md
+#### Traslate and rotation of point cloud with ORB-SLAM. 
+##### https://github.com/MAB1144-Python/rotation-and-traslate-Point-Cloud-3D
 #### Detection of humans
 ##### The detection of dynamic objects online is a factor of great complexity, and even more so when it is done with humans given the body presents irregularities, below we present the results of the application of the method in the detection of a human, at walking speed, in an interior space and with an irregular path.
 
